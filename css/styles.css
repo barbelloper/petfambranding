@@ -220,7 +220,7 @@ footer {
   height: 100vh;
   min-height: 500px;
   max-height: auto;
-  background: url(../images/petfam_main_logo_only.png) no-repeat center;
+  background: url(/images/petfam_main_logo_only.png) no-repeat center;
   background-size: contain;
   padding: 15px;
   overflow: hidden;
